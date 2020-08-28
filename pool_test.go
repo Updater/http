@@ -3,7 +3,7 @@ package http_test
 import (
 	"fmt"
 
-	"github.com/Bridgevine/t-http"
+	"github.com/Updater/http"
 )
 
 func ExampleNewClientPool() {
